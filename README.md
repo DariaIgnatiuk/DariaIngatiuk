@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daria Ignatiuk</h1>
 <h3 align="center">Full-stack developer from Israel</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java Script**
 
 - 📫 How to reach me **ignatyuk.dariaa@gmail.com**
 
